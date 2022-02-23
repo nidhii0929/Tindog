@@ -1,0 +1,38 @@
+.quote
+{
+  height: 300px;
+  width: 100%;
+  background-color: #6B7AA1;
+  margin: 0;
+  text-align: center;
+  padding: 20% 5% 20%;
+  color: #fff;
+
+}
+body{
+  margin: 0;
+  margin-top: 0;
+}
+
+h4
+{
+  position:absolute;
+  top: 70px;
+  right: 160px;
+  text-align: center;
+  line-height: 1.5;
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+}
+.row
+{
+  margin: 2% 4%;
+}
+.col
+{
+  margin: 2% 5%;
+}
+.icon1
+{
+color: #ef8172;
+}
